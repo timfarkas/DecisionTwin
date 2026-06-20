@@ -2,4 +2,13 @@
 name = "decisiontwin"
 version = "0.1.0"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "anthropic>=0.40.0",
+    "python-dotenv>=1.0.0",
+]
+
+[project.scripts]
+decisiontwin = "synthesis:main"
+
+[tool.setuptools]
+py-modules = ["data", "agent", "synthesis"]
