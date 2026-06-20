@@ -1,91 +1,144 @@
-# Data Corpus — Northwind Robotics, Inc.
+# Data Corpus — Maya's Mindfulness Journal
 
-Internal performance data for a fictional company, **Northwind Robotics**, a maker
-of warehouse automation robots. Fiscal year runs Jan–Dec. All figures in USD.
-
----
-
-## Company Overview
-Northwind Robotics sells two product lines:
-- **PalletPilot** — autonomous pallet-moving robots (hardware + annual software license).
-- **SortStream** — a SaaS platform for warehouse sortation analytics (subscription).
-
-Headquarters: Columbus, Ohio. Employees at end of FY2025: 412.
+A personal wellbeing log kept by Maya, a 34-year-old graphic designer, over three
+weeks in spring. Each day records a short journal entry plus a few numbers she tracks
+in a habit app: meditation minutes, mood (1–10, higher is better), sleep hours,
+stress (1–10, higher is worse), and a one-line gratitude note.
 
 ---
 
-## Quarterly Revenue (FY2025)
+## Week 1
 
-### Q1 2025
-- Total revenue: $14.2M
-- PalletPilot revenue: $9.8M (hardware $7.1M, license $2.7M)
-- SortStream revenue: $4.4M
-- New SortStream customers: 38
-- SortStream churn (logo): 6.1%
-- Gross margin: 51%
+### Monday
+- Meditation: 0 min | Mood: 4 | Sleep: 5.5h | Stress: 8
+- Gratitude: "Hot coffee on a cold morning."
+> Skipped my morning sit because I slept through the alarm. Felt rushed and behind
+> all day. Doomscrolled until 1am again — I know that's why I couldn't fall asleep.
 
-### Q2 2025
-- Total revenue: $15.9M
-- PalletPilot revenue: $10.4M (hardware $7.3M, license $3.1M)
-- SortStream revenue: $5.5M
-- New SortStream customers: 52
-- SortStream churn (logo): 5.4%
-- Gross margin: 53%
+### Tuesday
+- Meditation: 10 min | Mood: 6 | Sleep: 6h | Stress: 6
+- Gratitude: "A coworker covered a meeting for me."
+> Did a short guided breathing session before work. Noticed I was less snappy in the
+> standup. Still tired, but the morning felt like mine for once.
 
-### Q3 2025
-- Total revenue: $17.1M
-- PalletPilot revenue: $10.2M (hardware $6.8M, license $3.4M)
-- SortStream revenue: $6.9M
-- New SortStream customers: 61
-- SortStream churn (logo): 4.8%
-- Gross margin: 56%
+### Wednesday
+- Meditation: 0 min | Mood: 3 | Sleep: 5h | Stress: 9
+- Gratitude: "It stopped raining on my walk home."
+> Rough one. Deadline panic, three coffees, no break. Snapped at my partner over
+> nothing. Phone was basically glued to my hand. Went to bed wired.
 
-### Q4 2025
-- Total revenue: $19.6M
-- PalletPilot revenue: $10.9M (hardware $7.0M, license $3.9M)
-- SortStream revenue: $8.7M
-- New SortStream customers: 74
-- SortStream churn (logo): 4.2%
-- Gross margin: 58%
+### Thursday
+- Meditation: 15 min | Mood: 7 | Sleep: 7h | Stress: 5
+- Gratitude: "Slept a full seven hours!"
+> Left the phone in the kitchen overnight and actually slept. Morning meditation felt
+> easier when I wasn't exhausted. Took a real lunch break and walked outside.
 
----
+### Friday
+- Meditation: 12 min | Mood: 7 | Sleep: 6.5h | Stress: 5
+- Gratitude: "Finished the project before the weekend."
+> Good day. The walk-and-meditate combo is becoming a thing. Noticed I reach for my
+> phone less when I start the day with ten quiet minutes.
 
-## Operating Notes (FY2025)
+### Saturday
+- Meditation: 20 min | Mood: 8 | Sleep: 8h | Stress: 3
+- Gratitude: "A slow morning with no alarm."
+> Longest sit yet, out on the balcony. Felt genuinely calm. No work, lots of sleep.
+> Reminder to self: this is what 'rested' feels like.
 
-- **Mix shift:** SortStream grew from 31% of revenue in Q1 to 44% in Q4. Leadership
-  views the recurring SaaS revenue as higher quality than one-time hardware sales.
-- **Margin driver:** Gross margin climbed from 51% to 58% almost entirely because the
-  higher-margin SortStream line grew faster than the hardware-heavy PalletPilot line.
-- **Hardware plateau:** PalletPilot hardware revenue was essentially flat (~$7M/qtr).
-  A global chip shortage capped robot production at roughly 220 units per quarter for
-  most of the year. The shortage eased in late Q4.
-- **Churn improvement:** SortStream logo churn fell every quarter (6.1% → 4.2%) after
-  the Customer Success team doubled in size in Q1 and launched in-app onboarding in Q2.
-- **Sales efficiency:** Customer acquisition cost (CAC) for SortStream was ~$11k in H1
-  and dropped to ~$8k in H2 as inbound demand from a Q2 conference talk converted well.
-- **Headcount:** Engineering grew from 96 to 134 over the year; the rest of the company
-  was roughly flat.
+### Sunday
+- Meditation: 0 min | Mood: 6 | Sleep: 7.5h | Stress: 4
+- Gratitude: "Dinner with my sister."
+> Lazy day, forgot to meditate but didn't beat myself up about it. Stayed off email.
+> Sunday-night dread was milder than usual.
 
 ---
 
-## Customer Feedback Snippets (Q3–Q4 2025)
+## Week 2
 
-> "PalletPilot paid for itself in 7 months, but the 14-week lead time almost killed the
-> deal." — VP Ops, regional grocery distributor
+### Monday
+- Meditation: 12 min | Mood: 6 | Sleep: 7h | Stress: 5
+- Gratitude: "Started the week without rushing."
+> Set the alarm 20 minutes earlier so mornings aren't a sprint. Meditated, then walked.
+> Monday didn't feel like an ambush for once.
 
-> "SortStream's new onboarding got us live in 3 days instead of 3 weeks." — Logistics
-> Manager, e-commerce fulfillment
+### Tuesday
+- Meditation: 0 min | Mood: 4 | Sleep: 5.5h | Stress: 8
+- Gratitude: "A funny text from an old friend."
+> Stayed up late watching shows, skipped the morning sit. Cranky and scattered. The
+> pattern is so obvious now: bad sleep + no meditation = bad day.
 
-> "We'd buy more robots tomorrow if you could actually ship them." — COO, 3PL provider
+### Wednesday
+- Meditation: 15 min | Mood: 7 | Sleep: 7h | Stress: 4
+- Gratitude: "Sunshine at lunch."
+> Back on track. Phone stayed in another room overnight. Ate lunch away from my desk
+> and felt human again in the afternoon.
 
-> "The analytics are great; we wish the hardware and software were billed together." —
-> Director of Automation, apparel retailer
+### Thursday
+- Meditation: 18 min | Mood: 8 | Sleep: 7.5h | Stress: 3
+- Gratitude: "A long, honest talk with my partner."
+> Apologized for last week. Felt lighter afterward. Meditation is making me notice my
+> irritation before it spills out instead of after.
+
+### Friday
+- Meditation: 10 min | Mood: 7 | Sleep: 6.5h | Stress: 5
+- Gratitude: "Pizza night."
+> Busy but steady. Even a short sit seems to set the tone. Drank only one coffee and
+> slept better than on three-coffee days.
+
+### Saturday
+- Meditation: 25 min | Mood: 9 | Sleep: 8.5h | Stress: 2
+- Gratitude: "Hiked to the lookout with friends."
+> Best day in ages. Movement, nature, people, sleep. Stress basically gone. Want to
+> remember that being outside does as much for me as the cushion does.
+
+### Sunday
+- Meditation: 15 min | Mood: 8 | Sleep: 8h | Stress: 3
+- Gratitude: "Planned the week ahead calmly."
+> Gentle sit, then prepped for Monday without dread. Kept the phone off until noon.
+> Noticing weekends with more sleep and less screen time leave me genuinely recharged.
 
 ---
 
-## Competitive Notes
+## Week 3
 
-- Main hardware competitor, **AtlasMove**, undercuts PalletPilot on price by ~12% but
-  has no analytics product. Northwind wins deals where SortStream is bundled in.
-- No serious direct competitor to SortStream's sortation analytics yet; the moat is the
-  data captured from deployed PalletPilot fleets.
+### Monday
+- Meditation: 15 min | Mood: 7 | Sleep: 7h | Stress: 4
+- Gratitude: "The early-alarm habit is sticking."
+> Three Mondays in a row that didn't feel like a crash landing. The earlier wake-up
+> plus meditation is the single biggest change.
+
+### Tuesday
+- Meditation: 12 min | Mood: 7 | Sleep: 7h | Stress: 4
+- Gratitude: "Quiet, productive morning."
+> Steady. The link is undeniable now: on days I meditate AND sleep 7+ hours, my mood
+> is 7+ and stress is 4 or below. Almost every time.
+
+### Wednesday
+- Meditation: 0 min | Mood: 5 | Sleep: 6h | Stress: 7
+- Gratitude: "Caught myself before snapping at a barista."
+> Slipped — late night, no sit. Still, I noticed my stress rising and took three slow
+> breaths instead of reacting. Small win inside an off day.
+
+### Thursday
+- Meditation: 20 min | Mood: 8 | Sleep: 7.5h | Stress: 3
+- Gratitude: "A walk without my phone."
+> Left the phone at home on my evening walk. Felt almost rebellious, then just peaceful.
+> Less screen time at night = falling asleep faster, every time.
+
+### Friday
+- Meditation: 15 min | Mood: 8 | Sleep: 7.5h | Stress: 3
+- Gratitude: "A whole week mostly on track."
+> Looking back, the difference between week 1 and now is night and day. Lower stress,
+> better sleep, fewer blowups. The cushion, the early alarm, and the phone-free nights
+> are the three things I want to protect.
+
+---
+
+## Maya's Own End-of-Period Notes
+- "My worst days (Mon W1, Wed W1, Tue W2, Wed W3) all share two things: under 6 hours
+  of sleep and no meditation."
+- "My best days all had 7.5+ hours of sleep, some meditation, and time outside or with
+  people."
+- "Coffee past two cups always seems to wreck my sleep and spike my stress the next day."
+- "The phone is the hidden villain. Late-night scrolling steals my sleep, which steals
+  everything else."
