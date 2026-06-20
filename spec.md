@@ -1,16 +1,23 @@
-# DecisionTwin Specification
+# DecisionTwin Specification — Northwind Robotics FY2025 Review
 
 ## Purpose
-This spec defines what the agent should research, answer, or synthesise from the data corpus.
+Analyze Northwind Robotics' FY2025 performance data and produce a concise
+strategic review for the leadership team. Use the `search` tool to pull the
+relevant figures and notes from the data corpus before answering.
 
-## Questions to Answer
-1. What are the key themes present in the data corpus?
-2. Summarise the most important facts or figures from the data.
-3. Are there any gaps, contradictions, or areas that need further investigation?
+## Research Questions
+1. **Growth story:** How did total revenue and the product mix (PalletPilot vs.
+   SortStream) evolve across the four quarters of FY2025? Quantify the trend and
+   explain what is driving the change in gross margin.
+2. **Biggest constraint:** What is the single largest limiter on near-term revenue
+   growth, and what evidence in the data (metrics + customer feedback) supports
+   that conclusion?
+3. **Recommendation:** Given the trends in churn, CAC, product mix, and the
+   competitive landscape, what should leadership prioritize in FY2026? Give 2–3
+   concrete, data-backed recommendations.
 
 ## Output Format
-- Provide a structured report with headings for each question above.
-- Use bullet points for conciseness.
-- End with a "Next Steps" section suggesting follow-up actions.
-
-<!-- Replace the placeholder questions above with your real research questions. -->
+- A short executive summary (2–4 sentences) up top.
+- One section per research question above, with specific numbers cited from the data.
+- A final "FY2026 Priorities" section with a ranked, bulleted list.
+- Be concise and decision-oriented; avoid filler.
