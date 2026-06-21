@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "DecisionTwin",
+    "slug": "decisiontwin",
+    "scheme": "decisiontwin",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#FBF6EF",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.decisiontwin.app"
+    },
+    "android": {
+      "package": "com.decisiontwin.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#FBF6EF",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
